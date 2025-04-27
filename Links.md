@@ -1,4 +1,4 @@
 # useful-information
-<description>
+<details>
   <summary>Deploy Full stack project</summary>
-</description>
+</details>
