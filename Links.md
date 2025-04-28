@@ -180,6 +180,11 @@ git pull && pnpm run build && pm2 reload all
 	
 </details>
 <details>
-  <summary>Testin UI in Frontend</summary>
+  <summary>Testing UI in Frontend</summary>
   link https://www.youtube.com/watch?v=g3GFZx1KyWs
+</details>
+
+<details>
+	<summary>Prisma installation and overview</summary>
+	link https://www.youtube.com/watch?v=tyCwTTcWcYE
 </details>
