@@ -188,3 +188,7 @@ git pull && pnpm run build && pm2 reload all
 	<summary>Prisma installation and overview</summary>
 	link https://www.youtube.com/watch?v=tyCwTTcWcYE
 </details>
+<details>
+	<summary>Nginx</summary>
+	link [https://www.youtube.com/watch?v=tyCwTTcWcYE](https://www.youtube.com/watch?v=2aoOEnZmCmQ)
+</details>
