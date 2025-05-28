@@ -254,3 +254,9 @@ git pull && pnpm run build && pm2 reload all
 > - `429` рекомендуется при реализации ограничений на частоту запросов (rate limiting).
 
 </details>
+</details>
+<details>
+  <summary>Docker</summary>
+  link https://www.youtube.com/watch?v=g3GFZx1KyWs
+  link https://www.youtube.com/watch?v=jYFyLLqvHy8	
+</details>
