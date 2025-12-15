@@ -260,3 +260,8 @@ git pull && pnpm run build && pm2 reload all
   link https://www.youtube.com/watch?v=g3GFZx1KyWs
   link https://www.youtube.com/watch?v=jYFyLLqvHy8	
 </details>
+
+<details>
+	<summary>Delploy Nest JS project to the google cloud</summary>
+	link https://www.youtube.com/watch?v=tyCwTTcWcYE](https://www.youtube.com/watch?v=2aoOEnZmCmQ)](https://www.youtube.com/watch?v=ZmfDlUAokYc)
+</details>
