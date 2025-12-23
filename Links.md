@@ -265,3 +265,8 @@ git pull && pnpm run build && pm2 reload all
 	<summary>Delploy Nest JS project to the google cloud</summary>
 	link https://www.youtube.com/watch?v=tyCwTTcWcYE](https://www.youtube.com/watch?v=2aoOEnZmCmQ)](https://www.youtube.com/watch?v=ZmfDlUAokYc)
 </details>
+
+<details>
+	<summary>Kafka Nest JS setting</summary>
+	link https://www.youtube.com/watch?v=KPszh1qKPMQ
+</details>
