@@ -270,3 +270,7 @@ git pull && pnpm run build && pm2 reload all
 	<summary>Kafka Nest JS setting</summary>
 	link https://www.youtube.com/watch?v=KPszh1qKPMQ
 </details>
+<details>
+	<summary>Static IP GCP installing</summary>
+	link https://www.youtube.com/watch?v=VqFTOaUI8XA
+</details>
